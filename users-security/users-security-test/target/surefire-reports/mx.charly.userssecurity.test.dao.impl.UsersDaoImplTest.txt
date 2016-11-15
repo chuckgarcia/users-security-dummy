@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mx.charly.userssecurity.test.dao.impl.UsersDaoImplTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.958 sec
